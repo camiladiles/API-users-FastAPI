@@ -16,7 +16,7 @@ from pymongo import MongoClient
 
 # Base de datos remota MongoDB Atlas (https://mongodb.com)
 db_client = MongoClient(
-    "mongodb+srv://cdiles:81538592@cluster0.ulu9hrp.mongodb.net/?retryWrites=true&w=majority").test
+    "mongodb+srv://cdiles:<password>@cluster0.ulu9hrp.mongodb.net/?retryWrites=true&w=majority").test
 
 
 

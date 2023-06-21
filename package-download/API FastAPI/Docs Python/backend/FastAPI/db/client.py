@@ -23,5 +23,3 @@ db_client = MongoClient(
 # Despliegue API en la nube:
 # Deta - https://www.deta.sh/
 # Intrucciones - https://fastapi.tiangolo.com/deployment/deta/
-
-#token: W8ZN4cNw_6MHZjtnTaM4o4jFeBEDYrJZmc1UHrnSX
